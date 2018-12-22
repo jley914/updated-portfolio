@@ -77,7 +77,12 @@ body {
   * {
     box-sizing: border-box;
   }
-  
+  /* icons */
+  .fotter-icon-link{
+    background: currentColor;
+    color: teal;
+
+  }
   /* general */
   
   .container {
